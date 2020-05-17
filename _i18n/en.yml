@@ -1,6 +1,6 @@
 # Common
 contact:
-  interested: Still Interested?
+  interested: Interested to our Project?
   need_help: We need help! Join Us! No, seriously! Whatever your skill is, or what ideas you have, we are ready to hear about it!
   discord: Join us on Discord
   github: Join us on GitHub
@@ -18,7 +18,7 @@ navbar:
   toggle_navigation: Toggle Navigation
   resources: Resources
   resources_explorer: Block Explorer
-  resources_wiki: TurtleCoin Docs
+  resources_wiki: Viztercoin Docs
   resources_blog: Developer Blog
   resources_dev_resources: Developer Resources
   resources_brand: Brand Guidelines
@@ -26,19 +26,19 @@ navbar:
 
 # Pages
 
-# https://turtlecoin.lol/
+# https://vizter.xyz/
 index_page:
   meta:
-    description: TurtleCoin is a fun way to send money privately to friends or businesses. TurtleCoin is a community-developed, open source cryptocurrency that is easy to mine, and has a graphical wallet.
-    title: TurtleCoin.lol - A Fun, Fast, and Easy Way to Send Money To Friends and Businesses
+    description: Viztercoin is a fun way to send money privately to friends or businesses. TurtleCoin is a community-developed, open source cryptocurrency that is easy to mine, and has a graphical wallet.
+    title: Vizter.xyz - A Fun, Fast, and Easy Way to Send Money To Friends and Businesses
 
   # banner section
-  banner_is_fast: TurtleCoin is Fast
-  banner_is_easy: TurtleCoin is Easy
-  banner_is_safe: TurtleCoin is Safe
-  banner_one_liner: TurtleCoin is a fun, fast, and easy way to send money <br/> to friends and businesses.
+  banner_is_fast: Viztercoin is Fast
+  banner_is_easy: Viztercoin is Easy
+  banner_is_safe: Viztercoin is Safe
+  banner_one_liner: Viztercoin is a fun, fast, and easy way to send money <br/> to friends and businesses.
   banner_download: Download
-  banner_builds: <strong>We have builds for Windows, Apple, and Ubuntu Linux. </strong>If you prefer <strong>source code</strong>, you can find that <a href="https://github.com/turtlecoin/turtlecoin/">here</a>, but you should also contact us <a href="http://chat.turtlecoin.lol">here</a> because we're looking for people like you to join us.
+  banner_builds: <strong>We have builds for Windows, Apple, and Ubuntu Linux. </strong>If you prefer <strong>source code</strong>, you can find that <a href="https://github.com/turtlecoin/turtlecoin/">here</a>, but you should also contact us <a href="https://discord.gg/3mFMXHh">here</a> because we're looking for people like you to join us.
 
   # download section
   download_select_system: Select Your System
@@ -48,30 +48,30 @@ index_page:
   download_ton_chan: Download TonChan
 
   # fun facts section
-  fun_facts_title: Fun Turtle Facts
-  fun_facts_1: TurtleCoin has a 30 second block time, which means transactions confirm faster.
-  fun_facts_2: TurtleCoin has a private blockchain, nobody sees your money except you.
-  fun_facts_3: You can restore a deleted TurtleCoin wallet with your view key and spend key.
+  fun_facts_title: Fun Vizter Facts
+  fun_facts_1: Viztercoin has a 30 second block time, which means transactions confirm faster.
+  fun_facts_2: Viztercoin has a private blockchain, nobody sees your money except you.
+  fun_facts_3: You can restore a deleted Viztercoin wallet with your view key and spend key.
 
   # why section
-  why_title: Why TurtleCoin?
+  why_title: Why Vizteroin?
   why_1_title: Fast Transactions
-  why_1: TurtleCoin is creating blocks every 30 seconds, as opposed to every 10 minutes. Your money travels 20x faster on TurtleCoin than on Bitcoin or BitcoinCash.
+  why_1: Viztercoin is creating blocks every 30 seconds, as opposed to every 10 minutes. Your money travels 20x faster on Viztercoin than on Bitcoin or BitcoinCash.
   why_2_title: Privacy
   why_2: Every transaction is private, by default.
   why_3_title: Easy To Use
-  why_3: We support almost every OS, even on mobile you can <a href="https://turtlecoin.lol/wallet">make a secured paper-wallet for free</a>, and get started with TurtleCoin in under 5 minutes.
+  why_3: We support almost every OS, even on mobile you can <a href="https://vizter.xyz/wallet">make a secured paper-wallet for free</a>, and get started with Vizteroin in under 5 minutes.
   why_4_title: Easy To Mine
-  why_4: TurtleCoin comes with its own basic CPU miner, but you can also use other mining software you're used to if you'd rather use GPU's or mining pools. Check out the <a href="https://docs.turtlecoin.lol/guides/mining/mining">mining guide</a>.
+  why_4: Viztercoin comes with its own basic CPU miner, but you can also use other mining software you're used to if you'd rather use GPU's or mining pools. Check out the <a href="https://docs.vizter.xyz/guides/mining/mining">mining guide</a>.
   why_5_title: Community
-  why_5: The TurtleCoin community is very welcoming to all users and developers. You won't get shouted at when things break, and we welcome critiques of our work. Please join us in our <a href="http://chat.turtlecoin.lol">Discord Chat</a>.
+  why_5: The Viztercoin community is very welcoming to all users and developers. You won't get shouted at when things break, and we welcome critiques of our work. Please join us in our <a href="https://discord.gg/3mFMXHh">Discord Chat</a>.
   why_6_title: Support
-  why_6: We are growing a community of developers and testers in our <a href="http://meta.turtlecoin.lol">GitHub meta-forum</a>. You can help by testing software and submitting bug reports, or even just cheering us on from the sidelines.
+  why_6: We are growing a community of developers and testers in our <a href="http://meta.vizter.xyz">GitHub meta-forum</a>. You can help by testing software and submitting bug reports, or even just cheering us on from the sidelines.
 
   # the story section
   story_title: The Story
   story_1: Our Background
-  story_2: Most TurtleCoin Contributors have thick, luscious beards. <strong>FACT.</strong></h3>
+  story_2: Most Viztercoin Contributors have thick, luscious beards. <strong>FACT.</strong></h3>
   story_3: <em>This gives us <strong>+10xp Chin Stroke</strong> abilities, and enhances our patience and diagnostic skills. <i class="far fa-smile"></i></em>
   story_4: The truth is, most of us are full-time developers on other projects, and this is our way to give back to the community with something fun.
   story_5: How we started it
@@ -115,12 +115,12 @@ index_page:
 # https://turtlecoin.lol/brand/
 brand_page:
   meta:
-    description: TurtleCoin Brand Manual
-    title: TurtleCoin | Brand Guidelines
+    description: Viztercoin Brand Manual
+    title: Viztercoin | Brand Guidelines
   why: Why Guidelines?
-  why_explanation: We firmly believe that anyone should have access to create wonderful things in and with TurtleCoin. For that purpose, a set of guidelines has been created to keep a cohesive and strong, yet <strong>friendly and easy to approach</strong> way for people to express their ideas with the TurtleCoin brand.
+  why_explanation: We firmly believe that anyone should have access to create wonderful things in and with Viztercoin. For that purpose, a set of guidelines has been created to keep a cohesive and strong, yet <strong>friendly and easy to approach</strong> way for people to express their ideas with the TurtleCoin brand.
   download: Download
-  manual: TurtleCoin Brand Manual
+  manual: Viztercoin Brand Manual
   latest_version: Latest Version
   download_assets: Download assets
   contribute_on_github: Contribute on GitHub
