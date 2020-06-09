@@ -18,7 +18,7 @@ navbar:
   toggle_navigation: Toggle Navigation
   resources: Resources
   resources_explorer: Block Explorer
-  resources_wiki: Viztercoin Docs
+  resources_wiki: VizterCoin Docs
   resources_blog: Developer Blog
   resources_dev_resources: Developer Resources
   resources_brand: Brand Guidelines
@@ -29,19 +29,19 @@ navbar:
 # https://vizter.xyz/
 index_page:
   meta:
-    description: Viztercoin is a fun way to send money privately to friends or businesses. TurtleCoin is a community-developed, open source cryptocurrency that is easy to mine, and has a graphical wallet.
+    description: VizterCoin is a fun way to send money privately to friends or businesses. VizterCoin is a community-developed, open source cryptocurrency that is easy to mine, and has a graphical wallet.
     title: Vizter.xyz - A Fun, Fast, and Easy Way to Send Money To Friends and Businesses
 
   # banner section
-  banner_is_fast: Viztercoin is Fast
-  banner_is_easy: Viztercoin is Easy
-  banner_is_safe: Viztercoin is Safe
-  banner_one_liner: Viztercoin is a fun, fast, and easy way to send money <br/> to friends and businesses.
+  banner_is_fast: VizterCoin is Fast
+  banner_is_easy: VizterCoin is Easy
+  banner_is_safe: VizterCoin is Safe
+  banner_one_liner: VizterCoin is a fun, fast, and easy way to send money <br/> to friends and businesses.
   banner_download: Download
-  banner_builds: <strong>We have builds for Windows, Apple, and Ubuntu Linux. </strong>If you prefer <strong>source code</strong>, you can find that <a href="https://github.com/turtlecoin/turtlecoin/">here</a>, but you should also contact us <a href="https://discord.gg/3mFMXHh">here</a> because we're looking for people like you to join us.
+  banner_builds: <strong>We will have builds for Windows, Apple, and Ubuntu Linux. </strong>If you prefer <strong>source code</strong>, you can find that <a href="https://github.com/turtlecoin/turtlecoin/">here</a>, but you should also contact us <a href="https://discord.gg/3mFMXHh">here</a> because we're looking for people like you to join us.
 
   # download section
-  download_select_system: Select Your System
+  download_select_system: Select Your System, Currently Not Available
   download_latest: Download Latest
   download_gui: Download GUI
   download_cli: Download CLI
@@ -49,39 +49,39 @@ index_page:
 
   # fun facts section
   fun_facts_title: Fun Vizter Facts
-  fun_facts_1: Viztercoin has a 30 second block time, which means transactions confirm faster.
-  fun_facts_2: Viztercoin has a private blockchain, nobody sees your money except you.
-  fun_facts_3: You can restore a deleted Viztercoin wallet with your view key and spend key.
+  fun_facts_1: VizterCoin has a 10 second block time, which means transactions confirm faster.
+  fun_facts_2: VizterCoin has a private blockchain, nobody sees your money except you.
+  fun_facts_3: You can restore a deleted VizterCoin wallet with your view key and spend key.
 
   # why section
-  why_title: Why Vizteroin?
-  why_1_title: Fast Transactions
-  why_1: Viztercoin is creating blocks every 30 seconds, as opposed to every 10 minutes. Your money travels 20x faster on Viztercoin than on Bitcoin or BitcoinCash.
+  why_title: Why VizterCoin?
+  why_1_title: Fastest Transactions In The Industry
+  why_1: VizterCoin is creating blocks every 10 seconds, as opposed to every 10 minutes. Your money travels 60x faster on VizterCoin than on Bitcoin or BitcoinCash.
   why_2_title: Privacy
   why_2: Every transaction is private, by default.
   why_3_title: Easy To Use
-  why_3: We support almost every OS, even on mobile you can <a href="https://vizter.xyz/wallet">make a secured paper-wallet for free</a>, and get started with Vizteroin in under 5 minutes.
+  why_3: We will soon support almost every OS, even on mobile you can <a href="https://vizter.xyz/wallet" onclick="return false">make a secured paper-wallet for free</a>, and get started with VizterCoin in under 5 minutes.
   why_4_title: Easy To Mine
-  why_4: Viztercoin comes with its own basic CPU miner, but you can also use other mining software you're used to if you'd rather use GPU's or mining pools. Check out the <a href="https://docs.vizter.xyz/guides/mining/mining">mining guide</a>.
+  why_4: VizterCoin will soon come with its own basic CPU miner, but you can also use other mining software you're used to if you'd rather use GPU's or mining pools. Check out the <a href="https://docs.vizter.xyz/guides/mining/mining" onclick="return false">mining guide</a>.
   why_5_title: Community
-  why_5: The Viztercoin community is very welcoming to all users and developers. You won't get shouted at when things break, and we welcome critiques of our work. Please join us in our <a href="https://discord.gg/3mFMXHh">Discord Chat</a>.
+  why_5: The VizterCoin community is very welcoming to all users and developers. You won't get shouted at when things break, and we welcome critiques of our work. Please join us in our <a href="https://discord.gg/MgKq6C">Discord Chat</a>.
   why_6_title: Support
   why_6: We are growing a community of developers and testers in our <a href="http://meta.vizter.xyz">GitHub meta-forum</a>. You can help by testing software and submitting bug reports, or even just cheering us on from the sidelines.
 
   # the story section
   story_title: The Story
   story_1: Our Background
-  story_2: Most Viztercoin Contributors have thick, luscious beards. <strong>FACT.</strong></h3>
-  story_3: <em>This gives us <strong>+10xp Chin Stroke</strong> abilities, and enhances our patience and diagnostic skills. <i class="far fa-smile"></i></em>
-  story_4: The truth is, most of us are full-time developers on other projects, and this is our way to give back to the community with something fun.
+  story_2: We Have Community With The Mixture Of Economics And Dev Background. <strong>FACT.</strong></h3>
+  story_3: <em>This gives us <strong>+10xp In Coin Management</strong> abilities, and enhances our patience and diagnostic skills. <i class="far fa-smile"></i></em>
+  story_4: We Want A Community Of Crypto Guys, And Also We Want To Expand Our Coin, We Are Community Hungry!
   story_5: How we started it
-  story_6: One chilly December night, RockSteady and Bebop were having a beer too many while discussing the madness around fake, flimsy ICOs with no product. Bebop surmised that it just wouldn't be possible to put out a real project nowadays without a serious team, doing serious marketing, and bringing in serious funding.
-  story_7: RockSteady leaned in closely, stroked his beard intently, and had only one response..
-  story_8: <strong>"Hold my beer."</strong>
-  story_9: That night, December 9th, 2017, TurtleCoin was born.
+  story_6: We Started It To Expand The CryptoCurrency Community As Blockchain Is A Pretty New Community, We Will Help It Expanding Like Other Currencies Help It!
+  story_7: You're In The Right Phase Of CryptoCurrencies, We Will Develop New Projects Related To VizterCoin Side By Side!
+  story_8: <strong>"#CommunityRocks"</strong>
+  story_9: VizterCoin Is Founded In The Year Of 2020 And Is Pretty Much New
   story_10: Why?
-  story_11: Too many projects are bringing in <strong>too much funding</strong> despite most having <strong>no damn product</strong>. We figured, "why not do the whole thing in reverse? Start with a fun project, make it as simple and accessible as possible, and let it grow on its own."
-  story_12: We have a strong belief in our no-funding strategy; if we make a cool product, <strong>the value will create itself</strong>. If you think we're wrong, we're happy to <a href="http://meta.turtlecoin.lol">talk</a> about it.
+  story_11: Too many projects are bringing in <strong>too much funding</strong> despite most having <strong>no damn product</strong>. We figured, and Want To Reverse It! To A Revolutionary Crypto Project"
+  story_12: We have a strong belief in our funding strategy; if we make a cool product, <strong>the value will be doubled</strong>. If you think we're wrong, we're happy to <a href="https://discord.gg/MgKq6C">talk</a> about it.
   story_13: A wise rat once said, "A turtle only moves forward by sticking his neck out.."
   story_14: Quote
 
@@ -89,38 +89,38 @@ index_page:
   fine_print_title: The Fine Print
   fine_print_1: Here are some quick details about the project.
   fine_print_2: Avg. Block Reward
-  fine_print_3: 1 Block every<br> 30 seconds
-  fine_print_4: Developers <br> <a href="http://chat.turtlecoin.lol">Join Us</a>
-  fine_print_5: No Premine <br>No Shenanigans
+  fine_print_3: 1 Block every<br> 10 seconds
+  fine_print_4: Developers <br> <a href="https://discord.gg/MgKq6C">Join Us</a>
+  fine_print_5: 80% Premine <br>No Ore, It's A Real Currency
 
   # roadmap section
   roadmap_title: Roadmap
-  roadmap_1: Hello Turtle
-  roadmap_2: TurtleCoin was born <strong>December 9th, 2017</strong>.
-  roadmap_3: In the beginning, we were command line only, compiled only for Linux, and got banned repeatedly from online forums for hosting flash TRTL giveaways.
-  roadmap_4: GUI Wallets
-  roadmap_5: "TurtleCoin Community has been hard at work to bring us a diverse graphical experience, as well as refreshing the command line wallet also. From day one, we've been committed to making TurtleCoin easier, and that starts with a good GUI. Take your pick of one of the following wallets:"
-  roadmap_6: Market Partnerships
-  roadmap_7: We pledged to have our TurtleCoins being publicly trading by Q2 2018, and we have accomplished that goal in several markets.
-  roadmap_8: Development Started, Q2 2018
-  roadmap_9: Mobius, Fast Blocks No Sync
-  roadmap_10: A big headache with proof of work is syncing a huge chain, and fast blocks don't usually help that issue. Our goal is producing faster blocks on a shorter chain. This is perhaps the most aggressive goal, and will require the most help to complete.
-  roadmap_11: TBA
-  roadmap_12: Karai, Simple Smart Contracts
-  roadmap_13: Distributed, trustless networks have uses beyond currency. Karai is our goal for enabling distributed applications and networks beyond the main blockchain.
-  roadmap_14: Payment Integration Services
-  roadmap_15: Fun, Fast, & Easy TurtleCoin Payment Integration Services For Developers, By Developers. Accepting TurtleCoin in your application is easier than ever.
-  roadmap_16: Launched Q1 2019
+  roadmap_1: Hello Vizter
+  roadmap_2: VizterCoin was born <strong>2020</strong>.
+  roadmap_3: In the beginning, we were command line only, compiled only for Linux, And Had A Small Community.
+  roadmap_4: Web Wallet For VizterCoin Founded , Website Created
+  roadmap_5: TBD
+  roadmap_6: TBD
+  roadmap_7: TBD
+  roadmap_8: TBD
+  roadmap_9: TBD
+  roadmap_10: TBD
+  roadmap_11: TBD
+  roadmap_12: TBD
+  roadmap_13: TBD
+  roadmap_14: TBD
+  roadmap_15: TBD
+  roadmap_16: TBD
 
-# https://turtlecoin.lol/brand/
+# https://Vizter.xyz/brand/
 brand_page:
   meta:
     description: Viztercoin Brand Manual
     title: Viztercoin | Brand Guidelines
   why: Why Guidelines?
-  why_explanation: We firmly believe that anyone should have access to create wonderful things in and with Viztercoin. For that purpose, a set of guidelines has been created to keep a cohesive and strong, yet <strong>friendly and easy to approach</strong> way for people to express their ideas with the TurtleCoin brand.
+  why_explanation: We firmly believe that anyone should have access to create wonderful things in and with VizterCoin. For that purpose, a set of guidelines has been created to keep a cohesive and strong, yet <strong>friendly and easy to approach</strong> way for people to express their ideas with the VizterCoin brand.
   download: Download
-  manual: Viztercoin Brand Manual
+  manual: VizterCoin Brand Manual
   latest_version: Latest Version
   download_assets: Download assets
   contribute_on_github: Contribute on GitHub
